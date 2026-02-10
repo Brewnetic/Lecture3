@@ -1,4 +1,4 @@
-# Lecture 3: 9/17 
+# Lecture 3
 
 ## Class Examples
 
